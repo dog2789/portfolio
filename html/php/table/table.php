@@ -14,7 +14,7 @@
     </header>
     <section>
         <form name="table_form" action="table_res.php" method="get">
-            <table class="w3-table w3-table-all">
+            <table class="w3-table w3-bordered w3-hoverable">
                 <tr>
                     <td style="width:20%">행 갯수</td>
                     <td>
@@ -39,7 +39,7 @@
                 </tr>
             </table>
             <div class="w3-center w3-margin">
-                <button type="submit" class="w3-button w3-teal">확인</button>
+                <button type="submit" class="w3-button w3-teal">확인 :)</button>
             </div>
         </form>
     </section>
