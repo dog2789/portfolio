@@ -4,7 +4,7 @@
 
 <!--본문 영역.시작-->
 <div class="mbody">
-
+<iframe width="100%" height="450" frameborder="0" src="../board/bbs/board.php?bo_table=about"></iframe>
 본문영역
 </div>
 <!--본문 영역.종료-->
